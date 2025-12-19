@@ -53,7 +53,30 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 
+.
 
+.
+
+
+.
+
+
+.
+
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+.
 
 
 
@@ -137,7 +160,40 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 .
 
 
+.
+.
 
+
+.
+
+
+
+.
+
+
+.
+
+
+
+.
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+
+.
+
+.
+
+.
 
 
 
