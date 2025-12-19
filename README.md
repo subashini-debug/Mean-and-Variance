@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+ht#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -31,7 +31,19 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 
-<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000"/>
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
+
+
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -107,75 +119,10 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 
 
 # Output : 
-.
 
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
-.
-.
-
-
-.
-
-
-
-.
-
-
-.
-
-
-
-.
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-.
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
 
 
@@ -200,5 +147,6 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 
 
 # Results :
-The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
+
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
