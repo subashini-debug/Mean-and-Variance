@@ -26,21 +26,29 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Procedure :
 
-1. Construct frequency distribution for the data
 
-2. Find the  probability distribution from frequency distribution.
 
-3. Calculate mean using 
-   
-   ![image](https://user-images.githubusercontent.com/103921593/192940431-03b81777-c54d-4286-b4f4-82dfe7666b4c.png)
 
-4. Find  
-   
-      ![image](https://user-images.githubusercontent.com/103921593/192940255-2d9dd746-6875-4a6d-877b-6da6cdb96ab1.png)
 
-5.  Calculate variance using 
-  
-      ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
 
 # Experiment :
@@ -99,7 +107,30 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 
 
 # Output : 
-<img width="420" height="584" alt="Screenshot 2025-12-19 081726" src="https://github.com/user-attachments/assets/f37de300-bcd9-403f-94b7-0f14d8088635" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
