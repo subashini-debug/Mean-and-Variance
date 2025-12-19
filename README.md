@@ -26,62 +26,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Procedure :
 
-.
 
 
 
 
 
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-.
-
-.
-
-
-.
-
-
-.
-
-
-
-.
-
-
-.
-
-
-.
-
-
-.
-
-.
-
-
-
-
-
+<img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000"/>
 
 
 
